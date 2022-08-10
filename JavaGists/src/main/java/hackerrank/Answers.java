@@ -17,7 +17,7 @@ public class Answers {
 
 /**
  * Question1
- * https://www.hackerrank.com/challenges/apple-and-orange/problem
+ * apple-and-orange/problem
  */
 class AppleAndOrange {
     public static void countApplesAndOranges(int start, int end, int appleTreeLocation, int orangeTreeLocation, List<Integer> apples, List<Integer> oranges) {
